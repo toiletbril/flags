@@ -1,0 +1,5 @@
+example
+*.exe
+*.bc
+klee-last
+klee-out-*
